@@ -79,7 +79,7 @@ Discord —
 </p>
 
 <p align="center">  
-  💌 <a href="https://github.com/Sub2ScoutVR/about-me/pulls">Make a pull request and add more silly GIFs!!</a><br>
-  <sub>I’ll accept literally everything 💀 | Credits to <a href="https://github.com/iiDk-the-actual">IIDK</a></sub>
+  💌 <a href="https://github.com/Sub2ScoutVR/about-me/pulls">Make a pull request and add more silly GIFs!! | I’ll accept literally everything 💀</a><br>
+  <sub>Credits to <a href="https://github.com/iiDk-the-actual">IIDK</a></sub>
 </p>
 
