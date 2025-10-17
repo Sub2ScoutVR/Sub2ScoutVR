@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/byebye.gif?raw=true" width="40%">
-  <br>hiya!
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWlvcXByZTBiZXEwaW5hNGVkeTlwNjV0djUzODk4c3dtZG9qeGQ5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g88xUM1rTwjfLhoRYP/giphy.gif" width="40%">
+  <br>Hiiii
 </h1>
 
 <p align="center">
