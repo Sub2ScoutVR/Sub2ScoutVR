@@ -7,7 +7,7 @@
 Hey! I'm <b>Sub2ScoutVR</b>, 14 years old. <br>
 I’m a Unity dev, Gorilla Tag modder, and APK & metadata tinkerer.<br>
 I make mods, small projects, and whatever I find fun to experiment with.<br><br>
-Favorite game: <a href="https://store.steampowered.com/app/1533390/Gorilla_Tag/">Gorilla Tag <br><br><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/lkbc.jpg?raw=true" width="20%"></a></p>
+Favorite game: <a href="https://store.steampowered.com/app/1533390/Gorilla_Tag/">Gorilla Tag <br><br><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/header.jpg?t=1715638911" width="20%"></a></p>
 
 ---
 
