@@ -28,7 +28,8 @@ Favorite game: <a href="https://store.steampowered.com/app/1533390/Gorilla_Tag/"
   </a>  
 </p>  
 </details>
-
+   <summary>friends & server owners<summary>
+     
 <p align="center">
   -> A Bit of PY, Sometime a Skid
 - Founder @ S & B Services (10+) - https://discord.gg/Ua5tSBH8Qx
@@ -44,9 +45,8 @@ Founder @  RoTag VR (NEW) - https://discord.gg/nDZsf8ET3X
 - More to Come...
 -> Credits to Oxg.Soul for the Bio from this pastebin - (https://pastebin.com/raw/4axvtAki) - https://discord.gg/bq3Y2UEKU8
 p>
-
----
 </details>
+
 
 ---
 
