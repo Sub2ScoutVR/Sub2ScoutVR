@@ -28,6 +28,11 @@ Favorite game: <a href="https://store.steampowered.com/app/1533390/Gorilla_Tag/"
   </a>  
 </p>  
 </details>
+
+
+---
+
+
    <summary>friends & server owners<summary>
      
 <p align="center">
