@@ -39,7 +39,7 @@ I make mods for Gorilla Tag, small projects, and whatever I find fun to experime
 ---
 
 <details>
-  <summary align="center">💬 friends & server owners</summary>
+  <summary align="center">💬 Friends & Server Owners</summary>
   <p align="center">
 
 <b>→ A Bit of PY, Sometime a Skid</b><br>
@@ -51,7 +51,7 @@ Founder @ <b>RoTag VR (NEW)</b> —
 <hr width="60%">
 
 <b>→ Friends:</b><br>
-- snorfvr (Snorfy)<br>
+- SnorfVR (Snorfy)<br>
 - CheckmateVR<br>
 - FlooshyVR<br>
 - Bwallen (Brett) | Other Founder of S & B Services<br>
