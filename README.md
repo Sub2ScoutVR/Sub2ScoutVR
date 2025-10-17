@@ -29,6 +29,8 @@ Favorite game: <a href="https://store.steampowered.com/app/1533390/Gorilla_Tag/"
 </p>  
 </details>
 
+</details>
+
 
 ---
 
@@ -50,11 +52,9 @@ Founder @  RoTag VR (NEW) - https://discord.gg/nDZsf8ET3X
 - More to Come...
 -> Credits to Oxg.Soul for the Bio from this pastebin - (https://pastebin.com/raw/4axvtAki) - https://discord.gg/bq3Y2UEKU8
 p>
-</details>
 
 
 ---
-
 <p align="center">
   <img src="hyper.gif" height="100">
 
