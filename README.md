@@ -39,26 +39,36 @@ I make mods for Gorilla Tag, small projects, and whatever I find fun to experime
 ---
 
 <details>
-  <summary align="center">💬 Friends & Server Owners</summary>
+  <summary align="center">💬 friends & server owners</summary>
   <p align="center">
-    <pre>
-→ A Bit of PY, Sometime a Skid  
-Founder @ S & B Services (10+) - https://discord.gg/Ua5tSBH8Qx  
-Founder @ RoTag VR (NEW) - https://discord.gg/nDZsf8ET3X  
-=============================
-→ Friends:
-- snorfvr (Snorfy)
-- CheckmateVR
-- FlooshyVR
-- Bwallen (Brett) | Other Founder of S & B Services
-- Somekid | Owner of /AA Services - https://discord.gg/vrmods
-- Prroxzy | Owner of Prroxzy's Metadatas - https://discord.gg/MwvGw9BjGf
-- More to Come...
 
-→ Credits:
-Oxg.Soul for the bio - https://pastebin.com/raw/4axvtAki  
-Discord: https://discord.gg/bq3Y2UEKU8
-    </pre>
+<b>→ A Bit of PY, Sometime a Skid</b><br>
+Founder @ <b>S & B Services (10+)</b> — 
+<a href="https://discord.gg/Ua5tSBH8Qx">discord.gg/Ua5tSBH8Qx</a><br>
+Founder @ <b>RoTag VR (NEW)</b> — 
+<a href="https://discord.gg/nDZsf8ET3X">discord.gg/nDZsf8ET3X</a><br>
+
+<hr width="60%">
+
+<b>→ Friends:</b><br>
+- snorfvr (Snorfy)<br>
+- CheckmateVR<br>
+- FlooshyVR<br>
+- Bwallen (Brett) | Other Founder of S & B Services<br>
+- Somekid | Owner of /AA Services — 
+<a href="https://discord.gg/vrmods">discord.gg/vrmods</a><br>
+- Prroxzy | Owner of Prroxzy's Metadatas — 
+<a href="https://discord.gg/MwvGw9BjGf">discord.gg/MwvGw9BjGf</a><br>
+- More to Come...<br>
+
+<hr width="60%">
+
+<b>→ Credits:</b><br>
+Oxg.Soul for the bio — 
+<a href="https://pastebin.com/raw/4axvtAki">pastebin.com/raw/4axvtAki</a><br>
+Discord — 
+<a href="https://discord.gg/bq3Y2UEKU8">discord.gg/bq3Y2UEKU8</a>
+
   </p>
 </details>
 
