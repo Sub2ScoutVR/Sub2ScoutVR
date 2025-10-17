@@ -37,6 +37,6 @@ Favorite game: <a href="https://store.steampowered.com/app/1533390/Gorilla_Tag/"
   <img src="hyper.gif" height="100">
 
 <p align="center">  
-<br><br><a href="https://github.com/iiDk-the-actual/iiDk-the-actual/pulls">make a pull and add more silly gifs!! i will accept literally everything
+<br><br><a href="https://github.com/Sub2ScoutVR/about-me/pulls">make a pull and add more silly gifs!! i will accept literally everything
 credits to IIDK</a>
 </p>
