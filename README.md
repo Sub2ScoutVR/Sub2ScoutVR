@@ -29,6 +29,23 @@ Favorite game: <a href="https://store.steampowered.com/app/1533390/Gorilla_Tag/"
 </p>  
 </details>
 
+<p align="center">
+  -> A Bit of PY, Sometime a Skid
+- Founder @ S & B Services (10+) - https://discord.gg/Ua5tSBH8Qx
+Founder @  RoTag VR (NEW) - https://discord.gg/nDZsf8ET3X
+=============================
+-> Friends:
+- snorfvr (Snorfy)
+- CheckmateVR
+- FlooshyVR
+- Bwallen (Brett) | Other Founder of S & B Services
+- Somekid | Owner of /AA Services - https://discord.gg/vrmods
+- Prroxzy | Owner of Prroxzy's Metadatas - https://discord.gg/MwvGw9BjGf
+- More to Come...
+-> Credits to Oxg.Soul for the Bio from this pastebin - (https://pastebin.com/raw/4axvtAki) - https://discord.gg/bq3Y2UEKU8
+p>
+
+---
 </details>
 
 ---
