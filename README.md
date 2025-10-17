@@ -19,7 +19,7 @@ I make mods for Gorilla Tag, small projects, and whatever I find fun to experime
 ---
 
 <details>
-  <summary align="center">🧠 programming languages</summary>
+  <summary align="center">🧠 Programming Languages</summary>
   <p align="center">  
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
@@ -39,7 +39,7 @@ I make mods for Gorilla Tag, small projects, and whatever I find fun to experime
 ---
 
 <details>
-  <summary align="center">💬 friends & server owners</summary>
+  <summary align="center">💬 Friends & Server Owners</summary>
   <p align="center">
     <pre>
 → A Bit of PY, Sometime a Skid  
